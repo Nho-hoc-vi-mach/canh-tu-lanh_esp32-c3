@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍦 IoT Smart Refrigerator Guard (ESP32-C3)
 
 Hệ thống giám sát và chống quên đóng cửa tủ lạnh thông minh, tích hợp cảnh báo còi và gửi thông báo từ xa qua **Telegram Bot**.
@@ -29,3 +30,7 @@ Hệ thống giám sát và chống quên đóng cửa tủ lạnh thông minh, 
 2. Mở bằng Arduino IDE, cài đặt các thư viện cần thiết (`WiFi.h`, `HTTPClient.h`).
 3. Thay đổi thông tin WiFi, `BOT_TOKEN` và `CHAT_ID` của bạn ở phần `#define` đầu code.
 4. Nạp code (Upload) vào mạch ESP32-C3 và trải nghiệm!
+=======
+# canh-tu-lanh_esp32-c3
+Hệ thống IoT giám sát cửa tủ lạnh thông minh giúp phát hiện tình trạng quên đóng cửa, tích hợp cảnh báo còi tại chỗ và gửi tin nhắn cảnh báo từ xa qua Telegram Bot, giúp tiết kiệm điện năng và bảo quản thực phẩm tốt hơn.
+>>>>>>> 888325749a687628636051c3a552ede5ce84a996
